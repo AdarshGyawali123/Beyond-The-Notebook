@@ -60,7 +60,7 @@ export default function Home() {
           <BlogCard
             title="Kubernetes HPA Deep Dive"
             category="SYSTEMS"
-            image="/images/k8s.png"
+            image="/images/K8s.png"
           />
 
           <BlogCard
